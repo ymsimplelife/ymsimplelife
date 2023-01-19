@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my [blog](https://ymsimplelife.github.io/)🔅 about minimalism.
+
 <!--
 **ymsimplelife/ymsimplelife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
